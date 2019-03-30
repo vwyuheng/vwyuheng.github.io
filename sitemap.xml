@@ -2,14 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/My-New-Post-Hello-World/</loc>
+    <loc>https://vwyuheng.github.io//404.html</loc>
+    
+    <lastmod>2019-03-30T14:54:16.362Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vwyuheng.github.io/friends/index.html</loc>
+    
+    <lastmod>2019-03-30T14:39:02.017Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vwyuheng.github.io/about/index.html</loc>
+    
+    <lastmod>2019-03-30T14:37:36.655Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vwyuheng.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-03-30T14:36:15.545Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vwyuheng.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-03-30T14:35:21.437Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://vwyuheng.github.io/my-new-post-hello-world/</loc>
     
     <lastmod>2019-03-30T13:38:59.298Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/hello-world/</loc>
+    <loc>https://vwyuheng.github.io/hello-world/</loc>
     
     <lastmod>2019-03-30T13:22:05.502Z</lastmod>
     
